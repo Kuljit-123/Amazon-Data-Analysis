@@ -182,7 +182,8 @@ The dashboard is structured around a **Clean Canvas layout** (gridlines hidden, 
 
 ---
 
-## 8. Authors & License
+## 8. Authors & Contributors
 
 * **Author**: mahapatraabhijit52-crypto
+* **Contributors**: Kuljit-123
 * **License**: Commercial / Private Proprietary
